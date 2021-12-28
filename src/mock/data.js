@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'I’m especially interested in driving technical solutions to our climate crisis and elevating human welfare through social justice.',
   paragraphThree: '  ',
-  resume: 'Ayliffe_Logan_Resume.pdf', // if no resume, the button will not show up
+  resume: 'Ayliffe_Logan_Resume_NL.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
