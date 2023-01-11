@@ -16,7 +16,7 @@ const Footer = () => {
       <Container>
         <span className="back-to-top">
           <Link to="hero" smooth duration={800}>
-            <i className="fa fa-angle-up fa-2x" aria-hidden="true" />
+            <i className="fa-solid fa-angle-up fa-2x" aria-hidden="true" />
           </Link>
         </span>
         <div className="social-links">
@@ -31,7 +31,7 @@ const Footer = () => {
                   target="_blank"
                   aria-label={name}
                 >
-                  <i className={`fa-brands fa-${name || 'refresh'} fa-inverse`} />
+                  <i className={`fa-brands fa-${name || 'refresh'} fa-inverse fa-2x`} />
                 </a>
               );
             })}
