@@ -102,8 +102,8 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
-      url: 'https://twitter.com/logan_ayliffe',
+      name: 'mastodon',
+      url: 'https://hachyderm.io/@logan',
     },
     {
       id: nanoid(),

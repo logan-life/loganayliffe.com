@@ -15,6 +15,7 @@ export default () => {
         <title>{title}</title>
         <html lang={lang || 'en'} />
         <meta name="description" content={description} />
+        <link rel="me" href="https://hachyderm.io/@logan"/>
       </Helmet>
       <App />
     </>
